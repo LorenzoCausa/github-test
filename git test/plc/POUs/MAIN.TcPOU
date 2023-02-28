@@ -13,7 +13,7 @@ END_VAR
 counter2:=counter2+1;]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
-      <LineId Id="13" Count="0" />
+      <LineId Id="16" Count="0" />
       <LineId Id="2" Count="0" />
     </LineIds>
   </POU>
