@@ -5,6 +5,7 @@
 VAR
 	counter:INT;
 	counter2:INT;
+	useless_variable:BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
