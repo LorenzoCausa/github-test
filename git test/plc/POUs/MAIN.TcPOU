@@ -6,12 +6,16 @@ VAR
 	counterA:INT;
 	counter2:INT;
 	useless_variable:BOOL;
-	useless_variable3:REAL;
+	useless_variable2:BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
       <ST><![CDATA[counterA:=counterA+1;
 counter2:=counter2+1;]]></ST>
     </Implementation>
+    <LineIds Name="MAIN">
+      <LineId Id="3" Count="0" />
+      <LineId Id="2" Count="0" />
+    </LineIds>
   </POU>
 </TcPlcObject>
